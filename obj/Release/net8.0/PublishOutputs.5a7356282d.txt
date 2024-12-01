@@ -1,0 +1,8 @@
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/BookStoreTestingApp
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/appsettings.Development.json
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/appsettings.json
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/BookStoreTestingApp.dll
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/BookStoreTestingApp.deps.json
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/BookStoreTestingApp.runtimeconfig.json
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/BookStoreTestingApp.pdb
+/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/publish/Bogus.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+84zNwwMzMA=",
+  "success": true,
+  "projectFilePath": "/Users/a1234/Desktop/Studio Projects/Itransition/BookStoreTestingApp/BookStoreTestingApp/BookStoreTestingApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/a1234/.nuget/packages/bogus/35.6.1/bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
